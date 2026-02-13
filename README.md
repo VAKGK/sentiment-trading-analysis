@@ -3,7 +3,7 @@
 ### 📊 Project Overview
 This project analyzes the relationship between **Bitcoin Market Sentiment (Fear & Greed Index)** and **Trader Behavior (Hyperliquid Historical Data)**. The objective is to quantify how market emotion influences trading performance, risk appetite, and directional bias to uncover actionable trading strategies.
 
----
+--
 
 ## 📝 Executive Summary
 
