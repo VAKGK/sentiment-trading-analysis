@@ -1,4 +1,4 @@
-# 📊 Bitcoin Market Sentiment & Trader Behavior Analysis
+# 📊 Sentiment & Trader Behavior Analysis
 
 ### **Quantifying the Impact of Fear & Greed on Trading Performance**
 
